@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bea459f7.css",
+    "main.js": "/static/js/main.471500e9.js",
+    "static/js/453.ed573415.chunk.js": "/static/js/453.ed573415.chunk.js",
+    "static/media/girl.svg": "/static/media/girl.36adde58394fadad69e2a293207b5b77.svg",
+    "static/media/M4.svg": "/static/media/M4.78be2ffe6e9819215a2a85ce6815438c.svg",
+    "static/media/M2.svg": "/static/media/M2.57ddcd863d88e002664c5eda97114a46.svg",
+    "static/media/M1.svg": "/static/media/M1.24409a717a34802c5adec47e298c6c8d.svg",
+    "static/media/M3.svg": "/static/media/M3.4fa2f5815d90df97a44c7ef35b3b6879.svg",
+    "static/media/Logo.svg": "/static/media/Logo.894007f29145c043f1bb93547c3fcd7a.svg",
+    "static/media/Idea.svg": "/static/media/Idea.6193b412e52b58121afaf0ad4d485667.svg",
+    "static/media/Bag.svg": "/static/media/Bag.63e199e0943e58a626aa5a56131721cd.svg",
+    "static/media/Communication.svg": "/static/media/Communication.0b0017dc986294b49b104930d7882a5c.svg",
+    "static/media/MainFrame.svg": "/static/media/MainFrame.b249b1e15d24661e58c54fb96ba0987d.svg",
+    "index.html": "/index.html",
+    "main.bea459f7.css.map": "/static/css/main.bea459f7.css.map",
+    "main.471500e9.js.map": "/static/js/main.471500e9.js.map",
+    "453.ed573415.chunk.js.map": "/static/js/453.ed573415.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea459f7.css",
+    "static/js/main.471500e9.js"
+  ]
+}

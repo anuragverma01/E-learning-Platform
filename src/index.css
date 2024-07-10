@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.fader {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  z-index: 20;
+  background: linear-gradient(
+      270deg,
+      #fff 0,
+      rgba(255, 255, 255, 0.75) 6.75%,
+      rgba(255, 255, 255, 0) 21.98%
+    ),
+    linear-gradient(
+      90deg,
+      #fff 0,
+      rgba(255, 255, 255, 0.75) 4.89%,
+      rgba(255, 255, 255, 0) 14.91%
+    );
+}
+.swiper-custom-bullet {
+  height: 2px;
+  width: 2px;
+  background-color: white;
+}
+
+.swiper-custom-bullet-active {
+  height: 20px;
+  width: 20px;
+  background-color: orange;
+}
+.player-wrapper {
+  width: auto; /* Adjust the width to reduce the overall size */
+  aspect-ratio: 1 / 0.56875; /* Maintain the aspect ratio of 56.875% */
+  position: relative;
+  height: auto;
+  max-width: 95%;
+  /* padding: 100px; */
+  /* background-color: aqua; */
+  /* justify-items: center;
+  flex: auto;
+  display: flex;
+  align-items: center; */
+}
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  background-color: blue;
+  border-radius: 1%;
+  overflow:hidden
+}
+.line {
+  height: 1px;
+  background-color: black;
+  border: none;
+}
